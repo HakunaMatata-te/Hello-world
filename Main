@@ -4,6 +4,8 @@
 int main()
 {
   printf("Hello, world!");
+  printf("hello world J. M. is here ( ͡° ͜ʖ ͡°)");
+
   
   system("pause");
   return 0;
